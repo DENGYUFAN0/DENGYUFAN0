@@ -15,8 +15,9 @@ We don’t just build tools; we craft experiences. At the intersection of techno
 ### **[Project Name A]**
 *The next generation of [Category].*
 Built with a focus on seamless integration and unparalleled performance. 
-**[项目 A]：下一代 [类别] 解决方案。** 专注无缝集成，释放极致性能。
-https://dengyufan0.github.io/DENGYUFAN-kecheng1/
+**[项目 A]：下一代 [类别] 解决方案。** 专注无缝集成，释放极致性能。   
+
+github - https://github.com/DENGYUFAN0/DENGYUFAN-kecheng1   
 
 ### **[Project Name B]**
 *Simplicity is the ultimate sophistication.*
