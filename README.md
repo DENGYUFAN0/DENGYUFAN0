@@ -31,11 +31,13 @@ I don't just build tools — I craft experiences. I work at the intersection of 
 ### 🛠 Selected work · 精选作品
 
 - 🤝 **[dazi-agent](https://github.com/DENGYUFAN0/dazi-agent)** — AI agents for human connection: two strangers' agents chat first; if they click, the people meet. *AI · social / leisure* ｜ 搭子 agent:AI 先替主人聊,聊对了人再见。
+- ✈️ **[trip-compass](https://dengyufan0.github.io/trip-compass/)** — an AI itinerary planner wired straight to Claude / OpenAI with your own key; no middleman server. *AI · travel* ｜ AI 行程规划器,自带 key 直连大模型,无中间服务器。
 - 🟩 **[minecraft-ai-bot](https://github.com/DENGYUFAN0/minecraft-ai-bot)** — an AI agent that perceives and acts inside a living virtual world. *Embodied agents* ｜ 在虚拟世界里自主行动的 AI。
 - 🏞️ **[China Landscapes](https://github.com/DENGYUFAN0/DENGYUFAN-kecheng1)** — a new-media showcase of China's natural landscapes; digital storytelling for destinations. *New media · tourism* ｜ 中国自然景观的新媒体展示站。
 - 🔥 **[fire-compass](https://dengyufan0.github.io/fire-compass/)** — inflation-aware FIRE calculator; privacy-first, zero-dependency, unit-tested. *Product · engineering* ｜ 财务自由计算器,纯前端、有测试。
+- 📈 **[dca-compass](https://dengyufan0.github.io/dca-compass/)** — backtests dollar-cost averaging vs lump-sum on real index history; bundled data, unit-tested. *Product · finance* ｜ 定投 vs 一次性买入回测器,内置真实数据、有单测。
 
-<sub>Also — generative &amp; creative-coding experiments (<a href="https://github.com/DENGYUFAN0/strange-equilibria">strange-equilibria</a>), a cross-border shopping monitor, and web pieces: the craft behind the work above. ｜ 此外:生成与创意编程实验、跨境代购监控等,反哺上面的作品。</sub>
+<sub>Also — the wider “compass” family (<a href="https://dengyufan0.github.io/jetlag-compass/">jetlag-compass</a> for circadian jet-lag, <a href="https://dengyufan0.github.io/calm-compass/">calm-compass</a> for guided breathing), generative experiments (<a href="https://github.com/DENGYUFAN0/strange-equilibria">strange-equilibria</a>), and assorted web pieces: the craft behind the work above. ｜ 此外:compass 家族的 jetlag-compass(倒时差)、calm-compass(呼吸),生成实验(strange-equilibria)与各类网页,反哺上面的作品。</sub>
 
 ### 💡 How I work · 理念
 
